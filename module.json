@@ -1,9 +1,9 @@
 {
     "name": "game-icons",
     "title": "Game Icons",
-    "description": "Various icons from https://seiyria.com/gameicons-font/ for use in other modules.",
+    "description": "Various icons from https://game-icons.net/ for use in other modules.",
     "version": "0.0.1",
-    "author": "Phenomen#1337, seiyria",
+    "author": "Phenomen#1337",
     "minimumCoreVersion": "0.4.3",  
     "styles": ["game-icons.css"], 
     "url": "https://github.com/Phenomen/foundry-vtt-game-icons",

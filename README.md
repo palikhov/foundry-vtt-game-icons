@@ -5,11 +5,10 @@
 * **Foundry VTT Compatibility**: 0.4.3+
 
 ### Links
-* Github: [https://github.com/Phenomen/foundry-vtt-game-icons]
-* Manifest: [https://github.com/Phenomen/foundry-vtt-game-icons/raw/master/module.json]
+* Github: https://github.com/Phenomen/foundry-vtt-game-icons
+* Manifest: https://github.com/Phenomen/foundry-vtt-game-icons/raw/master/module.json
 
 ### Description
 This module adds various icons from https://seiyria.com/gameicons-font/ for use in other modules.
-Usage is simple: <i class="gi gi-two-coins"></i>
 
----
+Usage: ```<i class="gi gi-two-coins"></i>```

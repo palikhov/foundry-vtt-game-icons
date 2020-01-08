@@ -9,6 +9,6 @@
 * Manifest: https://github.com/Phenomen/foundry-vtt-game-icons/raw/master/module.json
 
 ### Description
-This module adds various icons from https://game-icons.net/ for use in other modules.
+This module adds various icons from https://seiyria.com/gameicons-font/ for use in other modules.
 
 Usage: ```<i class="gi gi-two-coins"></i>```
